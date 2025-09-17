@@ -387,7 +387,7 @@ void TRON_CreateTexts(SDL_Renderer* renderer)
     TRON_win_texts[2] = TRON_CreateText(renderer, "Player 3 Wins !");
     TRON_win_texts[3] = TRON_CreateText(renderer, "Player 4 Wins !");
 
-    TRON_title_text = TRON_CreateText(renderer, "E-TRON");
+    TRON_title_text = TRON_CreateText(renderer, "Light Bike");
     TRON_draw_text = TRON_CreateText(renderer, "Draw !");
     TRON_start_text = TRON_CreateText(renderer, "Starting Game !");
 }
